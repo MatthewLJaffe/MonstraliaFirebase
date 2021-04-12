@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=px9N1JOzRVU
 
 Then you should be able to add cloud functions in src and emulate / deploy them once you log in 
 (command line invocation: firebase login)
+
+firebase docs:
+https://firebase.google.com/docs/build
