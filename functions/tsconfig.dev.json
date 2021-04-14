@@ -1,5 +1,17 @@
 {
+  "compileOnSave": true,
+  "compilerOptions": {
+      "module": "commonjs",
+      "noImplicitReturns": true,
+      "noUnusedLocals": true,
+      "outDir": "lib",
+      "sourceMap": true,
+      "strict": true,
+      "target": "es2017"
+  },
   "include": [
-    ".eslintrc.js"
+      ".eslintrc.js", 
+      "src",
+      "src/index.ts"
   ]
 }
